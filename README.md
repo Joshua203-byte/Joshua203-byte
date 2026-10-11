@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Joshua 👋
 
-<!--
-**Joshua203-byte/Joshua203-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering student at Key Institute (El Salvador), focused on AI, data and systems.
 
-Here are some ideas to get you started:
+### What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Vigía](https://github.com/Joshua203-byte/vigia-nids)**: open-source tool that audits network-intrusion datasets for duplicates, train/test leakage and label noise. `pip install vigia-nids`
+- **[Orion GPU Cloud](https://github.com/Joshua203-byte/Proyecto-ish)**: compute-as-a-service platform to run ML training jobs on a local GPU, each in an isolated Docker container.
+- **CAREY Mission**: access-control system for the CleanRoom of El Salvador's first satellite.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/joshua-garcilazo-210ab8374/)
