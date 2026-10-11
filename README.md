@@ -5,7 +5,7 @@ Computer Science & Engineering student at Key Institute (El Salvador), focused o
 ### What I'm building
 
 - **[Vigía](https://github.com/Joshua203-byte/vigia-nids)**: open-source tool that audits network-intrusion datasets for duplicates, train/test leakage and label noise. `pip install vigia-nids`
-- **[Orion GPU Cloud](https://github.com/Joshua203-byte/Proyecto-ish)**: compute-as-a-service platform to run ML training jobs on a local GPU, each in an isolated Docker container.
+- **[Epochly](https://github.com/Joshua203-byte/Proyecto-ish)**: pay-per-use platform to train ML models on GPU hardware for people without a capable machine. Ran as a beta on an NVIDIA DGX Spark; paused after the hardware was returned.
 - **[Agrícola · Entropy Hackathon](https://github.com/romerokasl/agricola-entropyhack)**: team project for the Sarcoagrícola challenge at the Entropy Hackathon, Key Institute 2026.
 - **CAREY Mission**: access-control system for the CleanRoom of El Salvador's first satellite.
 
